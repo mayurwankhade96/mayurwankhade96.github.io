@@ -57,3 +57,13 @@ a {
     font-size: 50%;
   }
 }
+
+@media (max-width: 450px) {
+  html {
+    font-size: 40%;
+  }
+
+  .header-content h1 {
+    text-align: center;
+  }
+}
